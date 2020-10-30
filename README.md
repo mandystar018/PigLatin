@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _Pig Latin_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This is just practice app, October 29, 2020._
 
 #### By _**Amanda Otero**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This app is a practice exercise of a pigLatin game where is going to put your words out of order and creating it new sentences. Practicing arrays and loopings on lesson 28._
 
 ## Setup/Installation Requirements
 
@@ -16,11 +16,10 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _To view the project open index HTML on you favorite browser_
 * _To edit open you favorite text editor_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_Working progress app not finish_
 
 ## Support and contact details
 
